@@ -1,5 +1,9 @@
 # Links
 
+## Code design
+
+Factory method: https://refactoring.guru/design-patterns/factory-method/go/example
+
 ## K8S Operator
 
 API Strucuture: https://iximiuz.com/en/posts/kubernetes-api-structure-and-terminology/
