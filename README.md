@@ -34,3 +34,9 @@ once exec in the container:
 ```bash
 ./cockroach init --insecure
 ```
+
+JQ
+---
+```
+jq '.[] | select( .key == "value")'
+```
